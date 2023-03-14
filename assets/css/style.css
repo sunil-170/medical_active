@@ -145,23 +145,6 @@ nav ul li {
     display: none !important;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (min-width:992px) {
     .we_wdth_lg {
         height: 60px;
@@ -193,28 +176,6 @@ nav ul li {
         width: 469px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media (max-width:1200px) {
     nav ul {
