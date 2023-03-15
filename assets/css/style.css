@@ -37,6 +37,7 @@ nav ul li {
     border: 1px dotted;
     border-radius: 5px;
     padding: 15px 35px;
+    
 }
 
 .hr {
@@ -138,9 +139,11 @@ nav ul li {
 .slick-next:before {
     display: none !important;
 }
-.overflow_hidden{
+
+.overflow_hidden {
     overflow: hidden;
 }
+
 .slick-next {
     display: none !important;
 }
